@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>INVENTORYQU</title>
-  <link rel="icon" href="https://pngtree.com/freepng/fire-department-badge-linear-icon-symbol-logo-helmet-vector_12380788.html" />
+  <link rel="icon" href="" />
   <style>
     html, body {
       margin: 0;
