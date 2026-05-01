@@ -1,0 +1,2 @@
+# inventoryqu
+inventory barang fb
